@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ayush!
 
-- 👀 I’m interested in **Web Development, UI/UX Design, and Tech Startups**
+- 👀 I’m interested in **Web Development**
 - 🌱 I’m currently learning **Full Stack Web Development** JavaScript
 - 💻 Built projects like **Online store design**, **Portfolio Website**, and more coming soon!
 - 🚀 My goal: Become a **pro developer by 2030** and build something legendary
