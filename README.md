@@ -12,6 +12,9 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge[&logo=twitter&logoColor=white)](https://x.com/WebDev_Ayush)
 
+###  Check my Youtube Channel:
+[![YouTube](https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@canillop69?si=AFj6aDKwSFGwjjqu)
+
 ---
 
 ### 🛠 Tech Stack
@@ -24,3 +27,4 @@
 
 ![Alight Motion](https://img.shields.io/badge/Alight_Motion-Professional_Mobile_Editing-blueviolet?style=flat&logo=app-store-ios&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-Beginner_Editor-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
+
