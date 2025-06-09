@@ -22,5 +22,5 @@
 
 ### ⚙️ Editing Software
 
-![Alight Motion](https://img.shields.io/badge/Alight_Motion-Mobile_Editing-blueviolet?style=flat&logo=app-store-ios&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-Professional_Editing-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
+![Alight Motion](https://img.shields.io/badge/Alight_Motion-Professional_Mobile_Editing-blueviolet?style=flat&logo=app-store-ios&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-Beginner_Editor-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
